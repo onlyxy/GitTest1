@@ -19,6 +19,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	<link rel="stylesheet" type="text/css" href="styles.css">
 	-->
   </head>
+<<<<<<< HEAD
 
   eclipse
   test
@@ -26,5 +27,17 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   <body>
     This is my JSP page. <br>bdtest1
    
+=======
+<<<<<<< HEAD
+test
+=======
+  test
+  eclipse
+  +++
+  <body>
+    This is my JSP page. <br>bdtest1
+   
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master
   </body>
 </html>
