@@ -3,6 +3,7 @@ test1
 <<<<<<< HEAD
 2
 test
-=======
-222
->>>>>>> refs/remotes/origin/master
+233
+
+3
+4344hahhaha
