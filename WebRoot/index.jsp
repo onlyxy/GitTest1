@@ -19,8 +19,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	<link rel="stylesheet" type="text/css" href="styles.css">
 	-->
   </head>
-  test
-  <body>
-    This is myfdsf JSP page. <br>bdtest1
+test
   </body>
 </html>
