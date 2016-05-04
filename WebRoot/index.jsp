@@ -20,5 +20,14 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	-->
   </head>
 <<<<<<< HEAD
+<<<<<<< HEAD
+t
+=======
+  <body>
+ p[[[[[
+>>>>>>> branch 'master' of https://github.com/yunzhenhuan/GitTest1.git
+  </body>
+=======
 test 16:19
+>>>>>>> refs/remotes/yzh_remote/develop
 </html>
