@@ -20,6 +20,16 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	-->
   </head>
 <<<<<<< HEAD
-testes
+
+  eclipse
+  test
+  ttt
+  <body>
+    This is my JSP page. <br>bdtest1
+  <body>
+    This is my JSP page. <br>bdtest1
+   
+>>>>>>> refs/remotes/origin/master
+>>>>>>> refs/remotes/origin/master
   </body>
 </html>
