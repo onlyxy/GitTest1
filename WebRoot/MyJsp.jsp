@@ -24,11 +24,8 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   
   <body>
     This is my JSP page. <br>
-<<<<<<< HEAD
-    yzh update
-=======
     onlyxy update
->>>>>>> refs/remotes/choose_remote_name/master
-	yzh update
+    
+    onlyxy
   </body>
 </html>
